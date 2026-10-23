@@ -1,0 +1,6 @@
+admin
+config
+secret
+private
+backup
+test

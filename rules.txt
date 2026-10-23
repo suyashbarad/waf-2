@@ -1,0 +1,6 @@
+or\s+1\s*=\s*1
+'--
+select\s+\*\s+from
+union\s+select
+drop\s+table
+<script\s*>
